@@ -3,3 +3,16 @@
 ---
 
 @import "minima";
+
+.cover-image {
+	background-image: url("{{ "assets/images/background.jpg" | relative_url }}");
+	height: 200px;
+	background-size: cover;
+	background-position: center left;
+	background-repeat: no-repeat;
+}
+
+.site-title, h2 {
+		font-family: "Avenir Next W01", "Avenir Next", "Avenir", helvetica, arial, sans-serif;
+		font-weight: bold;
+}
