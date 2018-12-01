@@ -12,7 +12,21 @@
 	background-repeat: no-repeat;
 }
 
+.site-logo {
+	width: 100px;
+	height: 100px;
+	vertical-align: middle;
+	border-radius: 50%;
+	position: relative;
+	top: -50px;
+	border: solid white 3px;
+}
+
+.site-header .wrapper {
+	margin-bottom: -40px;
+}
+
 .site-title, h2 {
-		font-family: "Avenir Next W01", "Avenir Next", "Avenir", helvetica, arial, sans-serif;
-		font-weight: bold;
+	font-family: "Avenir Next W01", "Avenir Next", "Avenir", helvetica, arial, sans-serif;
+	font-weight: bold;
 }

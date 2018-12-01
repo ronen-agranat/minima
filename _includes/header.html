@@ -2,16 +2,18 @@
 
   <div class="cover-image">
   </div>
-  <div class="wrapper" style="margin-bottom: -40px">
+  <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ "assets/images/profile.jpg" | relative_url }}" width='100px' height='100px' style='vertical-align: middle; border-radius: 50%; position: relative; top: -50px; border: solid white 3px; '>
-    </a>
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+    {%- if site.logo -%}
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+        <img src="{{ site.logo | relative_url }}" class="site-logo">
+      </a>
+    {%- endif -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="margin-top: 9px;">
       {{ site.title | escape }}
-   </a>
+    </a>
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
