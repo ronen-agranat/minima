@@ -1,4 +1,4 @@
-# minimus
+# miniscule
 
 A slightly-less-minimal theme for Jekyll. Forked from the [default minima theme](https://github.com/Jekyll/minima)
 
@@ -9,20 +9,20 @@ A slightly-less-minimal theme for Jekyll. Forked from the [default minima theme]
 Add this line to your Jekyll site's Gemfile:
 
 ```ruby
-gem "minimus"
+gem "miniscule"
 ```
 
 And add this line to your Jekyll site:
 
 ```yaml
-theme: minimus
+theme: miniscule
 ```
 
 And then execute:
 
     $ bundle
 
-## Key features
+## Features
 
 * Cover photo
 
