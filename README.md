@@ -32,7 +32,35 @@ And then execute:
 
 ## Usage
 
-See usage for minima theme and [example blog](http://ronenagranat.com)
+General usage is much as the same as the `minima` theme from which this theme is forked.
+Please see the [minima theme usage guide](https://github.com/jekyll/minima/blob/master/README.md#usage)
+
+Please also see the [example blog](https://github.com/ronen-agranat/ronenagranat) for practical usage examples.
+
+### Profile photo
+
+In `_config.yml`:
+
+```yaml
+logo: path/to/profile/image.jpg
+```
+
+### Cover photo
+
+In `_config.yml`:
+
+```yaml
+cover_image: path/to/cover/image.jpg
+```
+
+### Twitter feed
+
+In `_config.yml`:
+
+```yaml
+twitter_username: yourtwitterhandle
+show_twitter_feed: true
+```
 
 ## License
 
