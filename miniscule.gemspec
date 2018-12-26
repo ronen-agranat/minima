@@ -2,12 +2,12 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "miniscule"
-  spec.version       = "0.1.1"
+  spec.version       = "0.1.2"
   spec.authors       = ["Ronen Agranat"]
   spec.email         = ["ronen.agranat@gmail.com"]
 
   spec.summary       = "A slightly more beautiful, slightly less minimal theme for Jekyll."
-  spec.homepage      = "https://github.com/ronen-agranat/minimus"
+  spec.homepage      = "https://github.com/ronen-agranat/miniscule"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
