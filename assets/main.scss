@@ -5,7 +5,7 @@
 @import "minima";
 
 .cover-image {
-	background-image: url("{{ site.cover_image | relative_url }}");
+	background-image: url("{{ site.cover_image | default: "assets/default-background.jpg" | relative_url }}");
 	height: 200px;
 	background-size: cover;
 	background-position: center left;

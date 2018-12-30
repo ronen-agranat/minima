@@ -9,11 +9,9 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    {%- if site.logo -%}
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-        <img src="{{ site.logo | relative_url }}" class="site-logo">
-      </a>
-    {%- endif -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      <img src="{{ site.logo | default: "assets/default-profile.jpg" | relative_url }}" class="site-logo">
+    </a>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="margin-top: 9px;">
       {{ site.title | escape }}
     </a>
