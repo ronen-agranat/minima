@@ -62,6 +62,18 @@ twitter_username: yourtwitterhandle
 show_twitter_feed: true
 ```
 
+### Fork me
+
+Shows a GitHub 'fork me' link in the top corner of the page, as
+well as a link in the footer.
+
+In `_config.yml`:
+
+```yaml
+fork_me_url: https://example.com
+show_fork_me: true
+```
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).

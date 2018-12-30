@@ -29,7 +29,9 @@
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
         <p>
-          <a href="https://github.com/ronen-agranat/miniscule">Like this website? Make your own!</a>
+          {%- if site.show_fork_me && site.fork_me_url -%}
+            <a href={{ site.fork_me_url }}>Like this website? Make your own!</a>
+          {%- endif -%}
         </p>
       </div>
     </div>
