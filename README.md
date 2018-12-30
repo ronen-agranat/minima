@@ -4,7 +4,21 @@ A slightly-less-minimal theme for Jekyll. Forked from the [default minima theme]
 
 [Theme preview](http://ronenagranat.com/)
 
+## Screenshots
+
+![Desktop screenshot](desktop1.png)
+![Desktop screenshot](mobile1.png)
+
 ## Installation
+
+First, install Jekyll and create a new site following the instructions on the [official webpage](https://jekyllrb.com/):
+
+
+    gem install bundler jekyll
+    jekyll new my-awesome-site
+    cd my-awesome-site
+
+*Then:*
 
 Add this line to your Jekyll site's Gemfile:
 
@@ -21,6 +35,18 @@ theme: miniscule
 And then execute:
 
     $ bundle
+
+to install and enable the theme.
+
+## Build and run
+
+To build:
+
+    $ bundle exec jekyll build
+
+To run:
+
+    $ bundle exec jekyll serve
 
 ## Features
 
