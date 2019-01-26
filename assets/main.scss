@@ -30,3 +30,10 @@
 	font-family: "Avenir Next W01", "Avenir Next", "Avenir", helvetica, arial, sans-serif;
 	font-weight: bold;
 }
+
+.post-list li {
+	display: block;
+  padding: 20px 10px;
+  margin: 5px;
+  border: 1px solid #eee;
+}
