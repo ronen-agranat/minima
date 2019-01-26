@@ -10,6 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
+  <h2>Blog posts</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -30,13 +31,16 @@ layout: default
   {%- endif -%}
 
   {%- if site.twitter_username and site.show_twitter_feed -%}
-    <a data-chrome="noheader, noscrollbar, nofooter, noborders" data-tweet-limit="3" data-dnt="true" class="twitter-timeline" href="https://twitter.com/ronenagranat?ref_src=twsrc%5Etfw">
+  <h2>Twitter feed</h2>
+  <center>
+  <a data-chrome="noheader, noscrollbar, nofooter, noborders" data-tweet-limit="3" data-dnt="true" class="twitter-timeline" href="https://twitter.com/{{ site.twitter_username }}">
       Tweets
     </a>
     <center>
       <a target="_blank" href="https://twitter.com/{{ site.twitter_username }}">Load more tweets</a>
     </center>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </center>
   {%- endif -%}
 
 </div>
