@@ -37,3 +37,18 @@
   margin: 5px;
   border: 1px solid #eee;
 }
+
+/* https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll */
+img + em {
+	display: block;
+	text-align: center;
+	margin-top: 4px;
+	font-size: small;
+	font-style: italic;
+	font-weight: 400;
+}
+
+article.post img {
+	display: block;
+	margin: 20px auto;
+}
