@@ -35,6 +35,17 @@
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
+@media print
+{
+  .no-print, .no-print *
+  {
+    display: none !important;
+  }
+  .cover-image {
+    height: 50px;
+  }
+}
+
 .post-list li {
 	display: block;
   padding: 20px 10px;
