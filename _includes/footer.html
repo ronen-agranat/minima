@@ -32,9 +32,9 @@
       </div>
     </div>
     {%- if site.url -%}
-      <div style="margin: auto; width: 100%; text-align: center">
+      <div class="print-only" style="margin: auto; width: 100%; text-align: center">
         <small>
-          <a href={{ site.url }}>{{ site.url | escape }}</a>
+          <strong>{{ site.url | escape }}</strong></a>
         </small>
       </div>
     {%- endif -%}

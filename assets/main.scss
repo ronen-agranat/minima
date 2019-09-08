@@ -46,6 +46,19 @@
   }
 }
 
+/* hidden on-screen */
+.print-only {
+  display: none;
+}
+
+@media print {
+
+  /* visible when printed */
+  .print-only {
+    display: block;
+  }
+}
+
 .post-list li {
 	display: block;
   padding: 20px 10px;
