@@ -2,9 +2,7 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
-
-    <div class="footer-col-wrapper">
+    <div class="footer-col-wrapper no-print">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
@@ -31,10 +29,14 @@
             <a href={{ site.fork_me_url }}>Like this website? Make your own!</a>
           {%- endif -%}
         </p>
-        {%- if site.url -%}
-          <p>{{ site.url | escape }}</p>
-        {%- endif -%}
       </div>
     </div>
+    {%- if site.url -%}
+      <div style="margin: auto; width: 100%; text-align: center">
+        <small>
+          <a href={{ site.url }}>{{ site.url | escape }}</a>
+        </small>
+      </div>
+    {%- endif -%}
   </div>
 </footer>
