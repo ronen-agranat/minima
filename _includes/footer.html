@@ -1,7 +1,7 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper no-print">
+  <div class="wrapper">
 
 
     <div class="footer-col-wrapper">
@@ -9,16 +9,14 @@
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author and site.show_author -%}
-            <--              {{ site.author | escape }} -->
-            {%- else -%}
-            <!--              {{ site.title | escape }} -->
+              {{ site.author | escape }}
             {%- endif -%}
-            </li>
-            {%- if site.email -%}
+          </li>
+          {%- if site.email -%}
             <li><h2 class="footer-heading">{{ site.title | escape }}</li>
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-            <li><p class="feed-subscribe" style="padding-top: 1em"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p></li>
+          {%- endif -%}
+          <li><p class="feed-subscribe" style="padding-top: 1em"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p></li>
         </ul>
       </div>
 
@@ -33,6 +31,9 @@
             <a href={{ site.fork_me_url }}>Like this website? Make your own!</a>
           {%- endif -%}
         </p>
+        {%- if site.url -%}
+          <p>{{ site.url | escape }}</p>
+        {%- endif -%}
       </div>
     </div>
   </div>
