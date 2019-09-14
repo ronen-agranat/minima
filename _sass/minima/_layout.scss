@@ -25,8 +25,8 @@
 
 .site-nav {
   position: absolute;
-  top: 9px;
-  right: $spacing-unit / 2;
+  top: 17px;
+  right: 15px;
   background-color: $background-color;
   border: 1px solid $grey-color-light;
   border-radius: 5px;
@@ -70,7 +70,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: black;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -106,6 +106,7 @@
 
     .page-link {
       display: inline;
+      color: white;
       padding: 0;
 
       &:not(:last-child) {
