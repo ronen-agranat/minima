@@ -5,11 +5,12 @@
 @import "minima";
 
 .cover-image {
-	background-image: url("{{ site.cover_image | default: "assets/default-background.jpg" | relative_url }}");
+//	background-image: url("{{ site.cover_image | default: "assets/default-background.jpg" | relative_url }}");
+  background-color: skyblue;
 	background-size: cover;
 	background-position: center left;
 	background-repeat: no-repeat;
-  padding: 15px 0;
+  padding: 10px 0;
   border-bottom: 1px solid #e8e8e8;
 }
 
@@ -18,7 +19,7 @@
 	height: 50px;
 	vertical-align: middle;
 	border-radius: 50%;
-	border: solid white 3px;
+	border: solid white 2px;
 }
 
 .site-title,
@@ -30,15 +31,15 @@
   margin-left: 0.5em;
 }
 
-h2 {
-  font-family: "Avenir Next W01", "Avenir Next", "Avenir", helvetica, arial, sans-serif;
-  font-weight: bold;
-}
-
 a.page-link,
 a.page-link:active,
 a.page-link:visited {
   color: white;
+}
+
+h2 {
+  font-family: "Avenir Next W01", "Avenir Next", "Avenir", helvetica, arial, sans-serif;
+  font-weight: bold;
 }
 
 .trigger {
