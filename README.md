@@ -100,6 +100,29 @@ fork_me_url: https://example.com
 show_fork_me: true
 ```
 
+## Build and publish
+
+Normal build:
+
+```
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve
+```
+
+Should show sample blog.
+
+### Releasing gem:
+
+Bump version in miniscule.gemspec
+
+```
+gem build miniscule.gemspec
+gem push miniscule-XXX.gemspec
+```
+
+Note that the rubygems creds are required
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
