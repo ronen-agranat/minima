@@ -6,7 +6,7 @@
 
 .cover-image {
 //	background-image: url("{{ site.cover_image | default: "assets/default-background.jpg" | relative_url }}");
-  background-color: skyblue;
+  background-color: #142375;
 	background-size: cover;
 	background-position: center left;
 	background-repeat: no-repeat;

@@ -10,9 +10,9 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
+    <div style="display: flex; flex-direction: row; justify-content: flex-start; flex-wrap: wrap;" class="post-list">
       {%- for post in site.posts -%}
-      <li>
+      <div style="border: #f0f0f0 solid 1px; padding: 7px; margin: 5px; max-width: 150px; min-height: 220px">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
@@ -23,9 +23,9 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-      </li>
+      </div>
       {%- endfor -%}
-    </ul>
+    </div>
 
   {%- endif -%}
 
