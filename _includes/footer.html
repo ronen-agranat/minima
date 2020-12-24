@@ -3,14 +3,13 @@
 
   <div class="wrapper">
     <div class="footer-col-wrapper no-print">
-      <div class="footer-col footer-col-1">
-        {{- site.description | escape -}}
-      </div>
-      <div class="footer-col footer-col-2">
-        <!-- Intentionally empty -->
-      </div>
-      <div class="footer-col footer-col-3">
-        {%- include social.html -%}
+      <div style="display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap;">
+        <div style="max-width: 20em; margin-right: 5px;">
+          {{- site.description | escape -}}
+        </div>
+        <div>
+          {%- include social.html -%}
+        </div>
       </div>
     </div>
   </div>
