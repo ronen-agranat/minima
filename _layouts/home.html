@@ -12,18 +12,25 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <div style="display: flex; flex-direction: row; justify-content: flex-start; flex-wrap: wrap;" class="post-list">
       {%- for post in site.posts -%}
-      <div style="border: #f0f0f0 solid 1px; padding: 7px; margin: 5px; max-width: 150px; min-height: 220px">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </div>
+      <a href="{{ post.url | relative_url }}">
+        <div style="border: #f0f0f0 solid 1px; margin: 5px; max-width: 150px; min-height: 220px; border-radius: 3px;">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {%- if post.image -%}
+            <div style="padding:0;margin:0; text-align: center;">
+              <img src="{{ post.image | relative_url }}" style="border-radius: 3px; max-width: 150px; margin: auto;" />
+            </div>
+          {%- endif -%}
+          <div style="padding: 7px">
+            <h3>
+              {{ post.title | escape }}
+            </h3>
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            {%- if site.show_excerpts -%}
+              {{ post.excerpt }}
+            {%- endif -%}
+          </div>
+        </div>
+      </a>
       {%- endfor -%}
     </div>
 
