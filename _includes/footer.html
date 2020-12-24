@@ -4,39 +4,14 @@
   <div class="wrapper">
     <div class="footer-col-wrapper no-print">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author and site.show_author -%}
-              {{ site.author | escape }}
-            {%- endif -%}
-          </li>
-          {%- if site.email -%}
-            <li><h2 class="footer-heading">{{ site.title | escape }}</li>
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {%- endif -%}
-          <li><p class="feed-subscribe" style="padding-top: 1em"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p></li>
-        </ul>
+        {{- site.description | escape -}}
       </div>
-
       <div class="footer-col footer-col-2">
+        <!-- Intentionally empty -->
+      </div>
+      <div class="footer-col footer-col-3">
         {%- include social.html -%}
       </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-        <p>
-          {%- if site.show_fork_me && site.fork_me_url -%}
-            <a href={{ site.fork_me_url }}>Like this website? Make your own!</a>
-          {%- endif -%}
-        </p>
-      </div>
     </div>
-    {%- if site.url -%}
-      <div class="print-only" style="margin: auto; width: 100%; text-align: center">
-        <small>
-          <strong>{{ site.url | escape }}</strong></a>
-        </small>
-      </div>
-    {%- endif -%}
   </div>
 </footer>

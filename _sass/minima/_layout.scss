@@ -138,6 +138,10 @@
   margin-left: 0;
 }
 
+.social-media-list li {
+  display: inline;
+}
+
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
@@ -161,6 +165,7 @@
 .footer-col-3 {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
+  text-align: right;
 }
 
 @media screen and (min-width: $on-large) {
