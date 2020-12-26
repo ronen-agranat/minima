@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Welcome!
+## Welcome to my blog
 
 My name is Ronen Agranat.
 I write blog posts based on my personal experience as a software development manager. Topics I cover include people and project management, engineering leadership, agile and software architecture.
