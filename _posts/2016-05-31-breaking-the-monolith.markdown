@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Breaking the Monolith"
+title:  "Breaking the monolith: migrating to micro-services"
 date:   2016-05-31 08:05:00 +0100
 categories: microservice architecture soa
 image: /assets/images/monolith.jpg

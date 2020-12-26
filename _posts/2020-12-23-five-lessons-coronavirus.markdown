@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Five lessons from Coronavirus"
+title:  "Five lessons from coronavirus"
 date:   2020-12-23 07:00:00 +0100
 published: true
 categories: management leadership people

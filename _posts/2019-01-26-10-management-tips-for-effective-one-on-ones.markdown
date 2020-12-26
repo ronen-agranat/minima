@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10 Management Tips for Effective One-on-Ones"
+title:  "10 tips for effective one-on-ones"
 date:   2019-01-28 09:00:00 +0100
 categories: management leadership people
 image: assets/images/yoda-luke.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10 Hallmarks of High-Performing Software Development Teams"
+title:  "Hallmarks of high-performing teams"
 date:   2019-02-15 09:00:00 +0100
 categories: management leadership people
 image: assets/images/up-to-11.jpg
