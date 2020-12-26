@@ -5,14 +5,12 @@
 layout: home
 ---
 
-## Welcome, friend
+## Welcome!
 
 My name is Ronen Agranat.
-You've found my home on the web!
+I write blog posts based on my personal experience as a software development manager. Topics I cover include people and project management, engineering leadership, agile and software architecture.
+My goal is to share knowledge and help other aspiring leaders.
 
-I write articles based on my personal experience as a software development manager.
-My goal goal is to to share knowledge and help other aspiring leaders.
+I work at Booking.com in Amsterdam, where I lead an organisation of 25 people in all kinds of roles, including team leads and other managers, developers, designers, copywriters, data and machine learning scientists, and quality specialists.
 
-I work at Booking.com in Amsterdam, where I lead an organisation of 25 people.
-
-<small>*All views expressed are my own*</small>
+<small>*All views expressed here are my own*</small>
