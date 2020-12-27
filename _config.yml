@@ -16,7 +16,7 @@
 title: Ronen Agranat
 email: ronen.agranat@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website, portfolio and blog of Ronen Agranat, software developer and people manager
+  Professional website of Ronen Agranat, software development manager
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ronenagranat.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ronenagranat
