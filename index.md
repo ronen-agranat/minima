@@ -9,7 +9,7 @@ layout: home
 
 <p style="text-align: justify;">
 <!-- <span style="font-variant-caps: all-small-caps; font-weight: bolder;">What do I do?</span> -->
-I work at Booking.com in picturesque Amsterdam, where I lead a software development organisation of 25+ people, including 4 multi-disciplinary product development teams and 1 management team.
+I work at Booking.com in picturesque Amsterdam, where I lead a software development organisation of more than 25 people.
 </p>
 
 <p style="text-align: justify;">
