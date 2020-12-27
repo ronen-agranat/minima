@@ -8,6 +8,7 @@ layout: home
 ## Helping companies build and scale their software development capability
 
 <p style="text-align: justify;">
+<!-- <span style="font-variant-caps: all-small-caps; font-weight: bolder;">What do I do?</span> -->
 I work at Booking.com in picturesque Amsterdam, where I lead a software development organisation of 25+ people, including 4 multi-disciplinary product development teams and 1 management team.
 </p>
 
@@ -18,5 +19,6 @@ My goal is to share knowledge and help other aspiring leaders.
 </p>
 
 <p style="text-align: justify;">
-I hail originally from sunny Cape Town, where I worked for Amazon EC2 and obtained my BSc(Eng) in electrical & computer engineering.</p>
+<span style="font-variant-caps: all-small-caps; font-weight: bolder;">More about me</span>
+I originally hail from sunny Cape Town, where I worked for Amazon EC2 and obtained my BSc(Eng) in electrical & computer engineering.</p>
 
