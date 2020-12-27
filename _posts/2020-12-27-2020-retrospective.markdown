@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Looking back on 2020"
+title:  "2020 retrospective"
 date:   2020-12-27 07:00:00 +0100
 published: true
 categories: management leadership people
-image: assets/images/rearview.jpg
+image: assets/images/rearview.jpeg
 ---
 
 *The following article is based on my experience as a manager of software development at Booking.com during 2020* 
@@ -19,4 +19,4 @@ For my organisation, it was a successful year on the whole. We released a host o
 
 It was painful nonetheless to see the extremely challenging positions that my people found themselves this in this year. Some were working from home with small children for months, others were ill themselves or who had family members who became ill and needed their help. And it was most difficult of all to say goodbye to so many talented colleagues and friends.
 
-In retrospect, 2020 was a challenging but successful year. It posed huge unexpected obstacles -- obstacles which were surmounted for me, my wife and my family, but it is deeply saddening to see how adversely so many other people were affected. I’m looking forward to the new year and expected recovery.
+In retrospect, 2020 was a challenging but successful year. It posed huge unexpected obstacles -- obstacles which were surmounted for me, my wife and my family, but it is deeply saddening to see how adversely so many other people were affected. I’m looking forward to the new year and expected recovery. As they say, hindsight is always 2020.
