@@ -5,12 +5,18 @@
 layout: home
 ---
 
-## Welcome to my professional website
+## Helping companies build and scale their software development capability
 
-My name is Ronen Agranat.
-I write blog posts based on my personal experience as a software development manager. Topics I cover include people and project management, engineering leadership, agile and software architecture.
+<p style="text-align: justify;">
+I work at Booking.com in picturesque Amsterdam, where I lead a software development organisation of 25+ people including 4 multi-disciplinary product development teams and 1 management team.
+</p>
+
+<p style="text-align: justify;">
+Here you can find blog posts based on my personal management experience.
+Topics include people and project management, engineering leadership, agile and software architecture.
 My goal is to share knowledge and help other aspiring leaders.
+</p>
 
-I work at Booking.com in Amsterdam, where I lead an organisation of 25 people in all kinds of roles, including team leads and other managers, developers, designers, copywriters, data and machine learning scientists, and quality specialists.
+<p style="text-align: justify;">
+I hail originally from sunny Cape Town, where I worked for Amazon EC2 and obtained my BSc(Eng) in electrical & computer engineering.</p>
 
-<small>*All views expressed here are my own*</small>
