@@ -8,11 +8,11 @@ layout: home
 ## Helping companies build and scale their software development capability
 
 <p style="text-align: justify;">
-I work at Booking.com in picturesque Amsterdam, where I lead a software development organisation of 25+ people including 4 multi-disciplinary product development teams and 1 management team.
+I work at Booking.com in picturesque Amsterdam, where I lead a software development organisation of 25+ people, including 4 multi-disciplinary product development teams and 1 management team.
 </p>
 
 <p style="text-align: justify;">
-Here you can find blog posts based on my personal management experience.
+Here you can find blog posts based on my professional management experience.
 Topics include people and project management, engineering leadership, agile and software architecture.
 My goal is to share knowledge and help other aspiring leaders.
 </p>
