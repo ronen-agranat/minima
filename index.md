@@ -8,7 +8,6 @@ layout: home
 ## Helping companies build and scale their software development capability
 
 <p>
-<!-- <span style="font-variant-caps: all-small-caps; font-weight: bolder;">What do I do?</span> -->
 I work at Booking.com in picturesque Amsterdam, where I lead a software development organisation of more than 25 people.
 </p>
 
