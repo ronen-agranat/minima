@@ -24,15 +24,15 @@ We've all been there.
 None of us wants a project that was supposed to be finished in 2020, continuing too long into 2021.
 Tying up our past commitments from the last year with a nice bow is a practical step we can take to give ourselves the clean slate we deserve, and put ourselves into a forward-looking mindset for the new year.
 
-**What practical steps can we take to take a project that's falling behind, and put it back on course?**
+**How can you put a project back on course?**
 
-When my pet project is falling behind schedule, these are the three 'levers' or aspects of the project that I think of first. Pulling these levers can help the project course-correct and get back on track.
+When I hear that a project is falling behind schedule, there are three 'levers' or courses of action that I consider first. Pulling these levers can help the project course-correct and get back on track. 
 
-The 3 interconnected levers are:
+## The 3 levers
 
-* **Time**: Project deadline.
-* **Scope**: Functionality, features or what's included in the project
-* **Resources**: Number of people working on the project or other ways money can be spent to accelerate it
+* **Time**: The project deadline, which is usually, but not always, fixed
+* **Scope**: What is to be delivered by the project; e.g. features or functionality
+* **Resources**: Ways in which money can be spent to 'accelerate' the project; e.g. adding people, purchasing software, hiring a consultant.
 
 These three levers are intertwined.
 Whenever you are considering one of these options, you should also consider the others.
@@ -71,7 +71,10 @@ we can proceed to consider the two other useful levers.
 
 ## Scope
 
-Shedding scope from a project is the first step that you should take if it is falling behind and the deadline is non-negotiable.
+Reducing or 'shedding' scope from a project is the first step that you can consider take if it is falling behind.
+
+This can mean deferring the work until later, carving the projects into parts for different teams
+
 It is more important to deliver something that is minimally-viable rather than something that is perfectly complete; that's what is meant by minimally-viable product.
 
 You should work with your stakeholders to help them identify what is absolutely critical to project success, versus what can be deferred until later, added in the next iteration or tackled as a separatee project.
