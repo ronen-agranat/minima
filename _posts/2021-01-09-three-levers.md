@@ -28,17 +28,54 @@ Tying up our past commitments from the last year with a nice bow is a practical 
 
 When I hear that a project is falling behind schedule, there are three 'levers' or courses of action that I consider first. Pulling these levers can help the project course-correct and get back on track. 
 
-## The 3 levers
+**The Three Levers**
+
+The three levers are time, scope and resources.
 
 * **Time**: The project deadline, which is usually, but not always, fixed
 * **Scope**: What is to be delivered by the project; e.g. features or functionality
-* **Resources**: Ways in which money can be spent to 'accelerate' the project; e.g. adding people, purchasing software, hiring a consultant.
+* **Resources**: Ways in which money can be spent to 'accelerate' the project; e.g. more people, better tools, ready-made solutions
 
 These three levers are intertwined.
-Whenever you are considering one of these options, you should also consider the others.
-An action plan to get the project back on track has the best chance of success if each of these factors is considered.
+Whenever you are considering one of these aspects of the project, you should also consider the others.
+An action plan to get your project back on track has the best chance of success if each of these factors is considered.
 
-I'll expand on each of these below.
+## Scope
+
+**Shedding scope**
+
+The first lever you should consider pulling is reducing the project's scope.
+'Shedding' scope from a project could mean deferring some work until later, delegating some work elsewhere, or remove non-essential work from the project (with the customer's buy-in, of course!)
+
+**Minimal-viable product**
+
+The principle is that it's more important to deliver a viable result at the deadline: something minimal yet complete in its own right; that's what is meant by minimally-viable product.
+
+The principle is that it is better to deliver a fully-working bicycle than a half-built car. The best time to define the minimal viable product is at the start of your project.
+The second-best time is now.
+
+**Collaborate with your stakeholders**
+
+In many cases, your key stakeholders will understand the need to prioritise the most critical work in order to deliver something that is valuable to them at the project's end.
+
+You should work with your stakeholders to help them identify what is absolutely critical to project success, versus what can be deferred until later, added in the next iteration or tackled as a separate project.
+
+There are two techniques that are highly valuable when it comes to defining minimum-viable products and prioritising work for a project.
+
+### Prioritising user stories
+
+The first is to group user stories and other team tasks into priority levels, such as P1, P2 and so. It should be clear to the team and the stakeholders what work is prioritised as P1, what the criteria for that are and how the team should tackle it (e.g. before all other work except outages).
+The team should understand that this work takes precedence over any other work on the backlog or other incoming external requests. This will help the team focus and apply its capacity to actually get this work through the door.
+Even though they may not like the lack of flexibility in a pinch, they will certainly like it when the project is successfully completed and the customers are happy. They should understand that the situation may be temporary.
+And of course, they should be rewarded appropriately once the work is done.
+
+### Segmenting the project into stages or phases
+
+The second technique is to organise the project into stages or phases: What is included at stage 1? What is included at stage 2? And to be very explicit about the functionality that will be delivered at each of these 'stage' milestones. This will help your teams and stakeholders formulate a 'big-picture' vision of the project, where they can start to understand what will be delivered at each phase of the project and way. In my experience, organising a project this way really helps everyone to get on the same and easily discuss major milestones which otherwise may be quite wordy or difficult to communicate without long documents.
+
+Another benefit of this approach is the ease at which progress can be measured; you can see what phase the project is at as well as how much of each phase has been completed.
+
+But this approach will only work for small-to-medium size projects; at an enterprise scale, for example, or a project where there are multiple teams involved, a more sophisticated project management system will be needed (roadmaps and so forth).
 
 ## Time
 
@@ -69,40 +106,7 @@ In this case, the lever is 'fixed' and you will need to look towards the other l
 It's always worthwhile to see if there is room for negotiation in the deadline. Now that we know that there isn't,
 we can proceed to consider the two other useful levers.
 
-## Scope
 
-Reducing or 'shedding' scope from a project is the first step that you can consider take if it is falling behind.
-
-This can mean deferring the work until later, carving the projects into parts for different teams
-
-It is more important to deliver something that is minimally-viable rather than something that is perfectly complete; that's what is meant by minimally-viable product.
-
-You should work with your stakeholders to help them identify what is absolutely critical to project success, versus what can be deferred until later, added in the next iteration or tackled as a separatee project.
-
-In many cases, your key stakeholders will understand the need to prioritise the most critical work in order to deliver something viable at the project's end. In any case, they will likely understand that they will be providing feedback on the first iteration of the project, and that further iterations are already planned based on this feedback anyway. In other words, perhaps it suits them to first evaluate the initial version of the project, before a lot of effort is invested in building on it before the basics have been validated.
-
-This is where it's very important to focus on the functionality which is most important to the customer, rather than implementing non-essential 'cool ideas' from the development team, for example. The team should be made to understand that there isn't time to even implement the original specification let alone additional 'nice-to-haves' that the team may think is important. This is what's meant by customer-first.
-
-The following triangle helps to illustrate what is meant by a minimum-viable product:
-
-The basic functionality exists end-to-end and can be tested for feedback and further iterations.
-
-There are two techniques that are highly valuable when it comes to defining minimum-viable products and prioritising work for a project.
-
-### Prioritising user stories
-
-The first is to group user stories and other team tasks into priority levels, such as P1, P2 and so. It should be clear to the team and the stakeholders what work is prioritised as P1, what the criteria for that are and how the team should tackle it (e.g. before all other work except outages).
-The team should understand that this work takes precedence over any other work on the backlog or other incoming external requests. This will help the team focus and apply its capacity to actually get this work through the door.
-Even though they may not like the lack of flexibility in a pinch, they will certainly like it when the project is successfully completed and the customers are happy. They should understand that the situation may be temporary.
-And of course, they should be rewarded appropriately once the work is done.
-
-### Segmenting the project into stages or phases
-
-The second technique is to organise the project into stages or phases: What is included at stage 1? What is included at stage 2? And to be very explicit about the functionality that will be delivered at each of these 'stage' milestones. This will help your teams and stakeholders formulate a 'big-picture' vision of the project, where they can start to understand what will be delivered at each phase of the project and way. In my experience, organising a project this way really helps everyone to get on the same and easily discuss major milestones which otherwise may be quite wordy or difficult to communicate without long documents.
-
-Another benefit of this approach is the ease at which progress can be measured; you can see what phase the project is at as well as how much of each phase has been completed.
-
-But this approach will only work for small-to-medium size projects; at an enterprise scale, for example, or a project where there are multiple teams involved, a more sophisticated project management system will be needed (roadmaps and so forth).
 
 ## Resources
 
