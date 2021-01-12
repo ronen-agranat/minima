@@ -47,7 +47,7 @@ An action plan to get your project back on track has the best chance of success 
 The first lever you should consider pulling is reducing the project's scope.
 'Shedding' scope from a project could mean deferring some work until later, delegating some work elsewhere, or remove non-essential work from the project (with the customer's buy-in, of course!)
 
-**Minimal-viable product**
+**Minimum viable product**
 
 The principle is that it's more important to deliver a viable result at the deadline: something minimal yet complete in its own right; that's what is meant by minimally-viable product.
 
