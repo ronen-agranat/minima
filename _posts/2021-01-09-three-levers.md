@@ -4,7 +4,7 @@ title:  "How to get your project back on track"
 date:   2021-01-23 07:00:00 +0100
 published: true
 categories: management leadership people
-image: assets/images/3-levers.jpeg
+image: assets/images/3-levers.jpg
 ---
 
 ## Getting 2021 started on the right foot
