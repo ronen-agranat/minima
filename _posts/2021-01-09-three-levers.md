@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Three levers you can pull when your project falls behind"
+title:  "How to get your project back on track"
 date:   2021-01-23 07:00:00 +0100
 published: true
 categories: management leadership people
