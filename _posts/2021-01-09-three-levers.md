@@ -56,20 +56,19 @@ The second-best time is now.
 
 **Collaborate with your stakeholders**
 
-In many cases, your key stakeholders will understand the need to prioritise the most critical work in order to deliver something that is valuable to them at the project's end.
-
-You should work with your stakeholders to help them identify what is absolutely critical to project success, versus what can be deferred until later, added in the next iteration or tackled as a separate project.
+Work with your stakeholders to help them identify what is absolutely critical to project success. Often, 'nice-to-have' functionality can be deferred until later.
 
 There are two techniques that are highly valuable when it comes to defining minimum-viable products and prioritising work for a project.
 
-### Prioritising user stories
+### Prioritise work items
 
-The first is to group user stories and other team tasks into priority levels, such as P1, P2 and so. It should be clear to the team and the stakeholders what work is prioritised as P1, what the criteria for that are and how the team should tackle it (e.g. before all other work except outages).
-The team should understand that this work takes precedence over any other work on the backlog or other incoming external requests. This will help the team focus and apply its capacity to actually get this work through the door.
-Even though they may not like the lack of flexibility in a pinch, they will certainly like it when the project is successfully completed and the customers are happy. They should understand that the situation may be temporary.
-And of course, they should be rewarded appropriately once the work is done.
+The project should be broken down and grouped into tasks already.
+The next step is to prioritise this work, as P1, P2 and so on.
+The requirements for a task being high-priority should be clearly defined and agree to by the team.
+The team should be guided to tackle all high-priority work first, minimising other distractions
+Incoming work to the team needs to be triaged and prioritised against the team's existing high-priority commitments.
 
-### Segmenting the project into stages or phases
+### Separate the project into stages
 
 The second technique is to organise the project into stages or phases: What is included at stage 1? What is included at stage 2? And to be very explicit about the functionality that will be delivered at each of these 'stage' milestones. This will help your teams and stakeholders formulate a 'big-picture' vision of the project, where they can start to understand what will be delivered at each phase of the project and way. In my experience, organising a project this way really helps everyone to get on the same and easily discuss major milestones which otherwise may be quite wordy or difficult to communicate without long documents.
 
