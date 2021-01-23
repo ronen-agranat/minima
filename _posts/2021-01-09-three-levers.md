@@ -90,7 +90,7 @@ Where do the people come from?
 Are we taking them off of other critical projects,
 or moving them off of high-performing teams?
 
-**Does the project team even the have capacity to onboard more people at this point? Is the project even structured so that multiple people can work on it?** If the answer is no, then a plan to add people needs also to consider how to reduce workload and restructure the project. Otherwise you can expect the project to be delivered late *despite* the additional investment of people (and associated higher cost), and a poor employee experience for the people involved.
+**Does the project team even have capacity to onboard more people at this point? Is the project even structured so that multiple people can work on it?** If the answer is no, then a plan to add people needs also to consider how to reduce workload and restructure the project. Otherwise you can expect the project to be delivered late *despite* the additional investment of people (and associated higher cost), and a poor employee experience for the people involved.
 
 ### Hire an expert
 
