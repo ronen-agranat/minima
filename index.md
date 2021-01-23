@@ -8,7 +8,7 @@ layout: home
 ## Helping companies build and scale their software development capability
 
 <p>
-I work at Booking.com in picturesque Amsterdam, where I lead a software development organisation of more than 25 people.
+I work at Booking.com in picturesque Amsterdam, where I lead a software development organisation 25+ people acoss 4 product development teams.
 </p>
 
 <p>
