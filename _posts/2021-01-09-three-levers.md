@@ -1,175 +1,158 @@
 ---
 layout: post
 title:  "Three levers you can pull when your project falls behind"
-date:   2021-01-09 07:00:00 +0100
-published: false
+date:   2021-01-23 07:00:00 +0100
+published: true
 categories: management leadership people
 image: assets/images/rearview.jpeg
 ---
 
 ## Getting 2021 started on the right foot
 
-*Each week, we'll be looking at different tools to get ourselves into shape for the new year.*
-*I'll be sharing some of my favourite techniques, that have worked well for me and others in the pastr.*
-*In this first part of the series, we'll look at 3 straight-forward actions you can take to put a lagging project back-on-track.*
+*We'll be looking at different tools to get ourselves into shape for the new year.*
+*I'll be sharing some of my favourite techniques, that have worked well for me and others in the past.*
+*In this first part of the series, we'll look at 3 straight-forward "levers" you can pull, to put a lagging project back-on-track.*
 
 ## Three levers you can pull when your project falls behind
 
 **So your project that was supposed to be finished in 2020 has spilled over to 2021**.
 
-The initial estimates were way off. The project plan didn't include time for testing or deployment.
+The initial estimates were way off.
 The external team bailed on their commitments. The customers changed their requirements.
 Whatever the reason, the elements have conspired to put your project behind schedule.
 We've all been there. 
 None of us wants a project that was supposed to be finished in 2020, continuing too long into 2021.
-Tying up our past commitments from the last year with a nice bow is a practical step we can take to give ourselves the clean slate we deserve, and put ourselves into a forward-looking mindset for the new year.
+Tying up our past commitments from the last year is a practical step we can take to give ourselves the clean slate we deserve, and put ourselves into a forward-looking mindset for the new year.
 
-**How can you put a project back on course?**
+**How can you put a project back on track?**
 
-When I hear that a project is falling behind schedule, there are three 'levers' or courses of action that I consider first. Pulling these levers can help the project course-correct and get back on track. 
+When I hear that a project is falling behind schedule, there are three 'levers', or areas of action, that I consider first. Pulling these levers can help the project course-correct and get back on track. 
 
 **The Three Levers**
 
-The three levers are time, scope and resources.
+The three levers are scope, resources and time.
 
-* **Time**: The project deadline, which is usually, but not always, fixed
+
 * **Scope**: What is to be delivered by the project; e.g. features or functionality
 * **Resources**: Ways in which money can be spent to 'accelerate' the project; e.g. more people, better tools, ready-made solutions
+* **Time**: The project deadline, which is usually, but not always, fixed
 
 These three levers are intertwined.
 Whenever you are considering one of these aspects of the project, you should also consider the others.
-An action plan to get your project back on track has the best chance of success if each of these factors is considered.
+*An action plan to get your project back on track has the best chance of success if each of these factors is considered.*
 
-## Scope
+## The first lever: Scope
 
-**Shedding scope**
+### Shedding scope
 
-The first lever you should consider pulling is reducing the project's scope.
-'Shedding' scope from a project could mean deferring some work until later, delegating some work elsewhere, or remove non-essential work from the project (with the customer's buy-in, of course!)
+The first lever you should consider pulling is reducing, adjusting or reframing the project's scope.
+'Shedding' scope from a project could mean deferring some work until later, delegating some work elsewhere, or remove non-essential work from the project.
 
-**Minimum viable product**
+### Minimum viable product
 
-The principle is that it's more important to deliver a viable result at the deadline: something minimal yet complete in its own right; that's what is meant by minimally-viable product.
+It is most important to deliver a something *minimal but complete* at the project deadline; that's what is meant by minimum-viable product. Would you rather have a full bicycle or half of a car?
 
-The principle is that it is better to deliver a fully-working bicycle than a half-built car. The best time to define the minimal viable product is at the start of your project.
-The second-best time is now.
-
-**Collaborate with your stakeholders**
-
-Work with your stakeholders to help them identify what is absolutely critical to project success. Often, 'nice-to-have' functionality can be deferred until later.
-
-There are two techniques that are highly valuable when it comes to defining minimum-viable products and prioritising work for a project.
+Work with your stakeholders to help them identify what is absolutely critical to project success.
+Often, stakeholders would prefer to have a working solution that they can use and give feedback on for the next iteration, and 'nice-to-have' functionality can be deferred until later
 
 ### Prioritise work items
 
 The project should be broken down and grouped into tasks already.
 The next step is to prioritise this work, as P1, P2 and so on.
-The requirements for a task being high-priority should be clearly defined and agree to by the team.
-The team should be guided to tackle all high-priority work first, minimising other distractions
-Incoming work to the team needs to be triaged and prioritised against the team's existing high-priority commitments.
+The requirements for a task being high-priority should be clearly defined and agreed to by the team and stakeholders.
+The team should be guided to tackle all high-priority work first, minimising other distractions.
 
-### Separate the project into stages
+Incoming work to the team needs to be triaged and prioritised against the team's existing high-priority commitments, and people requesting work from the team should understand the team's existing workload.
 
-The second technique is to organise the project into stages or phases: What is included at stage 1? What is included at stage 2? And to be very explicit about the functionality that will be delivered at each of these 'stage' milestones. This will help your teams and stakeholders formulate a 'big-picture' vision of the project, where they can start to understand what will be delivered at each phase of the project and way. In my experience, organising a project this way really helps everyone to get on the same and easily discuss major milestones which otherwise may be quite wordy or difficult to communicate without long documents.
+I've found this approach useful on projects ranging from remediating the error rate of a hotel reservation booking engine, to implementing critical functionality for a new customer-asks, hotel-answers Q&A on Booking.com.
 
-Another benefit of this approach is the ease at which progress can be measured; you can see what phase the project is at as well as how much of each phase has been completed.
+### Split project into phases
 
-But this approach will only work for small-to-medium size projects; at an enterprise scale, for example, or a project where there are multiple teams involved, a more sophisticated project management system will be needed (roadmaps and so forth).
+Another useful technique is to break the project down into phases, with the key milestones for each phase listed.
+This can form an invaluable tool for understanding and discussing project progress and key deliverables internally, and with stakeholders.
+These phases can then be scheduled separately.
 
-## Time
+This approach has worked well on projects such as integrating multiple new products with Booking.com's internal customer support software and upgrading the maps and location experience on Booking.com's apps.
 
-The project's deadline is normally fixed and adjusting it is normally not an option.
-However, sometimes project deadlines can be flexible.
-It can be wise to first find out what is the criticality of the deadline, from where does it originate and which stakeholders are dependent upon completion at the original deadline.
-Sometimes, deadlines are set internally as a sort of motivational tool, or it really means 'as soon as possible' but there is no
-real external stakeholder coordination around the end date.
-In these cases, you may well have some negotiating leverage, if you are able to assemble a convincing business case based on data,
-explaining what the obstacles thus far have been, how it is okay that this project can take longer than anticipated, what has been
-prioritised instead of this project and why it was more important, and especially, what you will do with the additional time to
-ensure that the project will then be delivered with certainty.
-This is a trick you can only ever pull once at most on a given project; no one appreciates poor planning and unpredictable timelines.
+## The second lever: Resources
 
-It's important to raise any risk to the project timeline as soon as it is known to be a genuine problem.
-Stakeholders should be kept aware of such risks.
-To best inform your stakeholders and maintain trust, the best data you can provide is a highly-summarised description, statement or quantitative indication describing where the project should be by now versus where it is.
-Everyone appreciates being informed of potential issues with their project as soon as possible, especially if there is a risk of blowing the deadline.
-
-If you've committed to the deadline or you already know that the deadline cannot be adjusted then you should highlight the of course you should only request an extension as a last resort.
-
-Don't request an extension if you already know that it will damage trust or your relationship with the stakeholder.
-
-On the other hand, if it turns out that the deadline is flexible, then this is an easy win.
-
-It's likely that the deadline is based on non-negotiable real-world factors.
-In this case, the lever is 'fixed' and you will need to look towards the other levers, which is the point of this article.
-It's always worthwhile to see if there is room for negotiation in the deadline. Now that we know that there isn't,
-we can proceed to consider the two other useful levers.
-
-
-
-## Resources
-
-The other lever that can be pulled is to invest further resources into the project.
-
-For example, people could be added to the project, commercial-off-the-shelf (COTS) solutions could be purchased rather than developed, or superior tools could be purchased.
+The second lever that can be pulled is to invest further resources into the project. For example, people could be added to the project, commercial solutions could be purchased, or superior tools could be acquired.
 
 ### Adding people
 
-There is an old saying in softare development that adding people to a late project makes it later. The reason is because the new people need to be brought up to speed. When the original project team is already struggling with their workload and pushing to meet deadlines, bringing new staff members up-to-speed can drain them and take their time away from the project, as well as resulting in a poor experience for the new joiners who may perceive the environment as chaotic.
+The most common suggestion is simply to add people.
+There is an old saying in software development:
+Adding people to a late project makes it later.
+People need to be onboarded.
+The existing team is already stretched.
+The project may need to be restructured to accommodate multiple people working on it at once.
+Where do the people come from?
+Are we taking them off of other critical projects,
+or moving them off of high-performing teams?
 
-The key consideration when adding people is this: **Does the existing project team even have the capacity to bring a new joiner up-to-speed at this point?**
+**Does the project team even the have capacity to onboard more people at this point? Is the project even structured so that multiple people can work on it?** If the answer is no, then a plan to add people needs also to consider how to reduce workload and restructure the project. Otherwise you can expect the project to be delivered late *despite* the additional investment of people (and associated higher cost), and a poor employee experience for the people involved.
 
-If the project is overseen by a project manager, the question is also: **Does the current project manager realistically have the capacity to manage one additional worker?**
+### Hire an expert
 
-You can see how adding people to a late project can make it later, especially if the team is already stretched.
+If you cannot easily onboard people to the project, or you do not know how to restructure the project, try to enlist the services of an expert who is already familiar with the terrain -- perhaps someone who has worked on a similar project in the past.
 
-Even experienced developers joining the project will need to learn the basics of the business domain, get orientated into the project and its goals, learn the development practices for the project and meet everybody. If projects run on a relatively standardised platform (similar tooling, similar expectations from participants, standard programming languages, frameworks, development methodology and agile practices), then the onboarding time can be greatly reduced -- but not eliminated. And to repeat, this applies even when bringing in an expert.
+This will still slow the project initially as they get up-to-speed (and discover issues such as the previous developer using an obscure data structure or there being no prior documentation), but from then on, they are likely to genuinely accelerate the project, through their skills and experience. For example, they will be able to permanently upskill the project team, or fundamentally improve the structure or vision of the project.
 
+For example, at Booking, a developer working on the next generation location and mapping service, left the company.
+The team was stretched and the project looked to be at serious risk.
+By bringing in a developer very experienced in service creation to help full-time, and with the support of other interested developers, the project was brought back on-track, and sufficient capacity was freed up to hire and onboard a new developer, replacing the one who left.
 
-#### Structure project for parallel work
+### Structure project for parallel work
 
-The structure of the project and software development practices of the team need to allow for additional people to be added.
+The structure of the project and software development practices of the team need to allow for additional people to be added. In order for development capacity to scale proportionally to the number of developers added, the work needs to be broken down into sensible chunks that can be implemented by different people simultaneously. This is one reason why it's so important to plan projects thoughtfully upfront and break large tasks down into smaller pieces.
 
-In order for development capacity to scale proportionally to the number of developers added, the work needs to be broken down into sensible chunks that can be implemented by different people simultaneously.
+### Identify and remove bottlenecks
 
-This is one reason why it's so important to plan projects thoughtfully upfront and break large tasks down into smaller pieces.
+Adding people won't accelerate a project if there is some other bottleneck.
+For example, consider the case where there is one "star" developer who is key to all aspects of the project.
+This person will be busy.
+They may have limited time to onboard and help new joiners.
+They are likely to be a bottleneck.
+The fact that there is a bus factor of '1' is a major project risk and means that the entire project is riding on one person's shoulders.
 
-#### Identify and remove bottlenecks
-
-Adding people won't accelerate the project if there is some other bottleneck.
-For example, consider the case where input from a star developer, is needed for progress to happen on any piece of the project. If this person is already struggling with time management, they
-may have few opportunities to interact with new joiners and onboard them to their tasks.
-
-This is one reason why it's important to always maintain a bus factor greater than one;
-there should be several people sufficiently familiar with the project to keep it on track.
-
-You can challenge your team to bring multiple people up-to-speed with the project so that
-they can mutually support each other and remove single points-of-failure (SPOFs).
+*What can be done in this case?*
+More people need to be brought up-to-speed with the project so that the work is more evenly distributed. Help the person scale themselves; for example, by producing documentation, self-service tools, automating their work, or simply managing their time more effectively, asking for support where needed and setting higher expectations for others to help.
 
 ### Purchasing solutions or commerical services
 
-It may be the case that a significant part of the project already exists and can be purchased as a commerical project.
-For example, when working on Booking's internal customer software, we consistently evaluated solutions such as Jira, Zendesk or Swimlanes rather than creating internal proprietary software.
+It may be the case that a significant part of the project already exists and can be purchased or licensed commercially.
 
 Many times, an open source solution is available, which can be 'upgraded' to a commercial tier
 of support. At Amazon, managing complex trees of MySQL database was a major challenge,
-which was ultimately overcome by purchasing a commercial solution called Percona that effectively
-upgraded many of the automated tools and best practices that were already being used.
+which was ultimately overcome by purchasing a commercial solution from a vendor who provided many of the open source tools we already used for database management.
 
-If a major requirement of the project can be fulfilled simply through a purchase or subscription
-which is reasonably-priced relative to the cost of development and ongoing maintenance,
-then it can drastically simplify the project.
+If you can solve a major part of a project's requirements for an affordable cost, then this *has* to be weighed against the total cost of any alternative; in terms of peoples' effort, ongoing maintenance, infrastructure, etc. Fight against the fear of not-invented-here (NIH) syndrome.
 
-So it's worth it to check and to challenge your team if you believe they are suffering from Fear of Not-Invented-Here (NIH) syndrome.
+## The third lever: Time
 
-### Hiring experts
+### Negotiating deadlines
 
-There is a saying in software development that 1 good engineer can be hundreds of times more effective than a mediocre one.
+A project's deadline is normally non-negotiable. Sometimes, however, it is. And it is worth knowing when this is the case.
 
-Some projects can benefit from the input of a specialist if they are trying to solve a problem in a particular domain.
-For example, at Booking, bringing in a senior developer with experience in creating services greatly accelerated the creation of services, and this person is effectively helping different
-teams get their services up-and-running, seeding these teams with their knowledge at the same time,
-so that they are empowered to own these services going forward.
-We can see in each instance that having such an expert is key to success.
+Respectfully inquire as to the criticality of the deadline. Is it internally or externally set? Is it real or artificial? Sometimes deadlines are set as a sort of motivational tool, for which they can be effective. Sometimes they are set with the goal of posting a result at the end of some business cycle (e.g. quarterly, annually). Sometimes a tight deadline really means 'ASAP', and what the stakeholder really wants to know is that the work is priority 0, and they want to be kept informed up-to-the-minute. Another question is, did you commit to the deadline, or did someone else "commit" on your behalf?
 
-Even experts will still need to get up to speed on the project though, which is why it's important to document everything and prevent the team from ever getting too stretched to onboard new people in the first place.
+If there are no real dependencies on the project completing on an exact date, and there will be no real-world impact of adjusting the the deadline slightly, then you may have room for negotiation here. Proceed with caution and use your judgement when broaching this topic with your stakeholders because you do not want to jeopardise your relationship, and above all, be sensitive to their needs and concerns.
+
+For example, at a Booking.com kick-off event, an ambitious technology modernisation initiative was announced, with an aggressive deadline for the end of the year. This was a great initiative -- but unfortunately, the deadline was infeasible. We were able to set, and achieve, a more realistic goal, by doing the groundwork to understand the actual scope of the work, current resources, and how long it would take.
+Then we worked with senior leadership to set achievable milestones on the topics they most cared about.
+
+### Create an action plan
+
+Be sure to explain what *other* measures you are taking, beyond requesting more time, referring to the other two levers: scope and resources. Remember that you are only buying time and so it is what you actually *do* with the time that is critical. No one likes a delayed project and repeated delays are never received well -- so its important to present a plan that makes maximum utilisation of the additional time, with a high confidence of completing at the end. In other words, avoid *just* asking for more time.
+
+A multi-facted plan will most clearly lay out the different considerations and options, facilitating collaboration with your stakeholders to arrive at an optimum solution.
+
+### Keep stakeholders informed
+
+Most importantly, if your project is at risk of falling behind, inform your stakeholders and partners as soon as possible. Firstly, this is their business and they deserve to know. Secondly, they may be able to help in unexpected ways.
+
+
+## Conclusion
+
+There are three easy levers you can pull when your project is falling behind, in order to get it back on track: scope, resources and time. A good action plan will cover all three, 
+delivering with high confidence a minimum-viable product at the end, that satisfies the customers' critical needs.
