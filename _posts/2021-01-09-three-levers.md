@@ -4,7 +4,7 @@ title:  "Three levers you can pull when your project falls behind"
 date:   2021-01-23 07:00:00 +0100
 published: true
 categories: management leadership people
-image: assets/images/rearview.jpeg
+image: assets/images/3-levers.jpeg
 ---
 
 ## Getting 2021 started on the right foot
@@ -115,15 +115,14 @@ They may have limited time to onboard and help new joiners.
 They are likely to be a bottleneck.
 The fact that there is a bus factor of '1' is a major project risk and means that the entire project is riding on one person's shoulders.
 
-*What can be done in this case?*
-More people need to be brought up-to-speed with the project so that the work is more evenly distributed. Help the person scale themselves; for example, by producing documentation, self-service tools, automating their work, or simply managing their time more effectively, asking for support where needed and setting higher expectations for others to help.
+*What can be done in this case?* More people need to be brought up-to-speed with the project so that the work is more evenly distributed. Help the person scale themselves; for example, by producing documentation, self-service tools, automating their work, or simply managing their time more effectively, asking for support where needed and setting higher expectations for others to help.
 
 ### Purchasing solutions or commerical services
 
 It may be the case that a significant part of the project already exists and can be purchased or licensed commercially.
 
 Many times, an open source solution is available, which can be 'upgraded' to a commercial tier
-of support. At Amazon, managing complex trees of MySQL database was a major challenge,
+of support. At Amazon, my team was administering the historical database fleets for EC2. Managing complex trees of MySQL database was a major, daily challenge,
 which was ultimately overcome by purchasing a commercial solution from a vendor who provided many of the open source tools we already used for database management.
 
 If you can solve a major part of a project's requirements for an affordable cost, then this *has* to be weighed against the total cost of any alternative; in terms of peoples' effort, ongoing maintenance, infrastructure, etc. Fight against the fear of not-invented-here (NIH) syndrome.
