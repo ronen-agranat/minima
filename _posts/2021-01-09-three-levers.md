@@ -134,7 +134,7 @@ These are all examples of how you can help the person improve their **time manag
 
 ![Rich uncle pennybags](/assets/images/pennybags.jpg)
 
-*Rich Uncle Pennybags, more commonly known as the Monopoly Man. courtesy of Parker Brothers*
+*Rich Uncle Pennybags, more commonly known as the Monopoly Man. Courtesy of Parker Brothers*
 
 It may be the case that a significant part of the project already exists and can be purchased or licensed commercially.
 
