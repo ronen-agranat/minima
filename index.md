@@ -7,7 +7,7 @@ layout: home
 
 ## Welcome to my website!
 
-I work at Booking.com in Amsterdam, where I work as a software development management.
+I'm a **software development manager** at **Booking.com** in Amsterdam, owning the property page on the core funnel. Previously, I worked at **Amazon EC2** in Cape Town. *All views expressed are my own.*
 
 Here you can find blog posts based on my professional management experience.
 Topics include:
