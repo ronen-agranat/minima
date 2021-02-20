@@ -1,17 +1,15 @@
 ---
 layout: post
 title:  "How to get your project back on track"
-date:   2021-01-23 07:00:00 +0100
+date:   2021-02-20 07:00:00 +0100
 published: true
 categories: management leadership people
-image: assets/images/3-levers.jpg
+image: assets/images/whale-tail.jpg
 ---
 
-## Getting 2021 started on the right foot
+This article includes tips that I've learned from my experience working at Booking.com and Amazon EC2; all views expressed are my own.
 
-*We'll be looking at different tools to get ourselves into shape for the new year.*
-*I'll be sharing some of my favourite techniques, that have worked well for me and others in the past.*
-*In this first part of the series, we'll look at 3 straight-forward "levers" you can pull, to put a lagging project back-on-track.*
+*Title picture: A train in the Netherlands goes off the tracks, to be saved by decorative whale tail sculpture, much to the surprised relief of the train driver. Courtesty ANP/SplashNews.com*
 
 ## Three levers you can pull when your project falls behind
 
@@ -41,6 +39,9 @@ These three levers are intertwined.
 Whenever you are considering one of these aspects of the project, you should also consider the others.
 *An action plan to get your project back on track has the best chance of success if each of these factors is considered.*
 
+![Three levers summary](/assets/images/3-levers.jpg)
+*Summary of three levers*
+
 ## The first lever: Scope
 
 ### Shedding scope
@@ -55,6 +56,9 @@ It is most important to deliver a something *minimal but complete* at the projec
 Work with your stakeholders to help them identify what is absolutely critical to project success.
 Often, stakeholders would prefer to have a working solution that they can use and give feedback on for the next iteration, and 'nice-to-have' functionality can be deferred until later
 
+![What MVP means](/assets/images/MVP-brianpagan.net-diagram1.png)
+*What is meant by MVP. Courtesy brianpagan.net*
+
 ### Prioritise work items
 
 The project should be broken down and grouped into tasks already.
@@ -64,7 +68,7 @@ The team should be guided to tackle all high-priority work first, minimising oth
 
 Incoming work to the team needs to be triaged and prioritised against the team's existing high-priority commitments, and people requesting work from the team should understand the team's existing workload.
 
-I've found this approach useful on projects ranging from remediating the error rate of a hotel reservation booking engine, to implementing critical functionality for a new customer-asks, hotel-answers Q&A on Booking.com.
+I've found this approach useful on projects ranging from remediating the error rate of a hotel reservation booking engine, to delivering the question-and-answers functionality on Booking.com
 
 ### Split project into phases
 
@@ -80,44 +84,57 @@ The second lever that can be pulled is to invest further resources into the proj
 
 ### Adding people
 
-The most common suggestion is simply to add people.
 There is an old saying in software development:
-Adding people to a late project makes it later.
-People need to be onboarded.
-The existing team is already stretched.
-The project may need to be restructured to accommodate multiple people working on it at once.
-Where do the people come from?
-Are we taking them off of other critical projects,
-or moving them off of high-performing teams?
+
+> Adding people to a late project makes it later.
+
+* People will need to be onboarded while the existing team is already stretched.
+* The project may need to be restructured to accommodate multiple people working on it at once.
 
 **Does the project team even have capacity to onboard more people at this point? Is the project even structured so that multiple people can work on it?** If the answer is no, then a plan to add people needs also to consider how to reduce workload and restructure the project. Otherwise you can expect the project to be delivered late *despite* the additional investment of people (and associated higher cost), and a poor employee experience for the people involved.
 
+
+
 ### Hire an expert
 
-If you cannot easily onboard people to the project, or you do not know how to restructure the project, try to enlist the services of an expert who is already familiar with the terrain -- perhaps someone who has worked on a similar project in the past.
-
-This will still slow the project initially as they get up-to-speed (and discover issues such as the previous developer using an obscure data structure or there being no prior documentation), but from then on, they are likely to genuinely accelerate the project, through their skills and experience. For example, they will be able to permanently upskill the project team, or fundamentally improve the structure or vision of the project.
+If you cannot easily onboard people to the project, or you do not know how to restructure the project, try to enlist the services of an expert who is already familiar with the terrain -- perhaps someone who has worked on a similar project in the past. Once onboarded, they will be able to permanently upskill the project team, or fundamentally improve the structure or vision of the project.
 
 For example, at Booking, a developer working on the next generation location and mapping service, left the company.
 The team was stretched and the project looked to be at serious risk.
-By bringing in a developer very experienced in service creation to help full-time, and with the support of other interested developers, the project was brought back on-track, and sufficient capacity was freed up to hire and onboard a new developer, replacing the one who left.
+By bringing in a developer very experienced in service creation to help full-time, the project was brought back on-track. Then the team had enough capacity to onboard a new hire.
 
 ### Structure project for parallel work
 
 The structure of the project and software development practices of the team need to allow for additional people to be added. In order for development capacity to scale proportionally to the number of developers added, the work needs to be broken down into sensible chunks that can be implemented by different people simultaneously. This is one reason why it's so important to plan projects thoughtfully upfront and break large tasks down into smaller pieces.
 
-### Identify and remove bottlenecks
+### Remove bottlenecks
 
 Adding people won't accelerate a project if there is some other bottleneck.
-For example, consider the case where there is one "star" developer who is key to all aspects of the project.
-This person will be busy.
-They may have limited time to onboard and help new joiners.
-They are likely to be a bottleneck.
-The fact that there is a bus factor of '1' is a major project risk and means that the entire project is riding on one person's shoulders.
+Very often, the bottleneck is a specific person, for example, a "star" developer without whom no progress on the project can be made.
+* This person will be busy.
+* They may have limited time to onboard and help new joiners.
+* They are likely to be a bottleneck.
 
-*What can be done in this case?* More people need to be brought up-to-speed with the project so that the work is more evenly distributed. Help the person scale themselves; for example, by producing documentation, self-service tools, automating their work, or simply managing their time more effectively, asking for support where needed and setting higher expectations for others to help.
+The fact that there is a bus factor of '1' is a **major project risk** and means that the entire project is riding on one person's shoulders.
+
+*What can be done in this case?*
+
+* **Bring more people up-to-speed with the project**, so that the work is more evenly distributed.
+* **Help the person scale themselves**, for example, by:
+    * Producing documentation and FAQs rather than answering many questions individually
+    * Setting up regular office hours
+    * More efficient communication channels or group meetings, rather than 'ping me on Slack'
+    * Self-service tools to replace manual work and stakeholder management
+    * Automating their work to reduce toil
+    * Insisting on support where needed and setting a high bar of expectations for others to help
+
+These are all examples of how you can help the person improve their **time management**; of course, this person might be you!
 
 ### Purchasing solutions or commerical services
+
+![Rich uncle pennybags](/assets/images/pennybags.jpg)
+
+*Rich Uncle Pennybags, more commonly known as the Monopoly Man. courtesy of Parker Brothers*
 
 It may be the case that a significant part of the project already exists and can be purchased or licensed commercially.
 
@@ -128,6 +145,9 @@ which was ultimately overcome by purchasing a commercial solution from a vendor 
 If you can solve a major part of a project's requirements for an affordable cost, then this *has* to be weighed against the total cost of any alternative; in terms of peoples' effort, ongoing maintenance, infrastructure, etc. Fight against the fear of not-invented-here (NIH) syndrome.
 
 ## The third lever: Time
+
+![The persistence of memory](/assets/images/the-persistence-of-memory.png)
+*The persistence of memory (Soft watches), Salvador Dali, courtesy of MOMA*
 
 ### Negotiating deadlines
 
@@ -153,5 +173,4 @@ Most importantly, if your project is at risk of falling behind, inform your stak
 
 ## Conclusion
 
-There are three easy levers you can pull when your project is falling behind, in order to get it back on track: scope, resources and time. A good action plan will cover all three, 
-delivering with high confidence a minimum-viable product at the end, that satisfies the customers' critical needs.
+There are three easy levers to pull when your project is falling behind: scope, resources and time. Drawing these as a triangle will help you remember them. A good action plan will cover all three.
