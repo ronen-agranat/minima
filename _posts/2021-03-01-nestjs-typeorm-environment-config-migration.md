@@ -20,7 +20,7 @@ Well, you've come to the right place!
 
 ### What is NestJS?
 
-Recently, I've been experimenting with various state-of-the-art technologies for writing modern web applicatinos.
+Recently, I've been experimenting with various state-of-the-art technologies for writing modern web applications.
 NestJS is a progressive framework for creating applications in TypeScript.
 It combines progressive JavaScript with essential functionality found in mature alternatives such as Ruby on Rails, Django (Python), and Spring for Java.
 I've found it to be a compelling option for writing services in 2021.
