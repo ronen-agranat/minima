@@ -6,7 +6,7 @@
 
 .cover-image {
 //	background-image: url("{{ site.cover_image | default: "assets/default-background.jpg" | relative_url }}");
-  background-color: #142375;
+  background-color: rgb(252, 252, 252);
 	background-size: cover;
 	background-position: center left;
 	background-repeat: no-repeat;
@@ -27,7 +27,7 @@
 .site-title:visited {
   font-family: 'Nunito', sans-serif;
   font-weight: bold;
-  color: white;
+  color:  #111;
   margin-left: 0.5em;
 }
 
