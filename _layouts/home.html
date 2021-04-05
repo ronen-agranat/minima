@@ -3,24 +3,21 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2>Blog posts</h2>
+    <h1>Blog posts</h1>
     <div class="post-list">
       {%- for post in site.posts -%}
       <a href="{{ post.url | relative_url }}">
-        <div style="margin: 5px; border-radius: 3px; display: flex">
+        <div style="margin: 5px; border-radius: 3px; display: flex; border-bottom: rgb(248, 248, 248) solid 1px; padding: 10px;">
           {%- assign date_format = site.minima.date_format -%}
           <div style="padding:0;margin:0; text-align: center; display: block; min-width: 110px; width: 110px; max-height: 150px;">
             <img src="{{ post.image | relative_url }}" style="border-radius: 3px; margin: auto; max-height: 100%; max-width: 100%; vertical-align: middle;
             " />
           </div>
-          <div style="display: block; padding: 7px; display: flex; flex-direction:column; justify-content: center;">
+          <div style="display: block; padding: 7px; margin-left: 7px; display: flex; flex-direction:column; justify-content: center">
             <div>
               <strong style='font-size: 12pt;'>
                 {{ post.title | escape }}
