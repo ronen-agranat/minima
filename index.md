@@ -5,18 +5,3 @@
 layout: home
 ---
 
-## Welcome to my website!
-
-My name is Ronen Agranat.
-
-I'm a software development manager at Booking.com. Previously, I worked at Amazon EC2 in Cape Town. All views expressed are my own.
-
-Here you can find blog posts based on my professional management experience.
-Topics include:
-
-* People and project management
-* Engineering and technical leadership
-* Software architecture
-* Agile software development
-
-My goal is to share knowledge and help other aspiring engineering leaders.

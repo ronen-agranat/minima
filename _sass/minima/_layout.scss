@@ -70,7 +70,7 @@
   }
 
   .page-link {
-    color: black;
+    color: #111;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -106,7 +106,7 @@
 
     .page-link {
       display: inline;
-      color: white;
+      color: #111;
       padding: 0;
 
       &:not(:last-child) {
